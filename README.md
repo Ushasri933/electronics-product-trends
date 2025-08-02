@@ -1,0 +1,2 @@
+# electronics-product-trends
+This project explores an electronics dataset using Python to understand product trends and customer preferences. By analyzing the model_attr column, I identified the most frequent product models and their distribution. I used Pandas for data manipulation and Matplotlib/Seaborn to create visual summaries. The analysis helps highlight popular electronic products and provides useful insights for inventory planning or marketing strategies.
